@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.mainBlock{
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.mainBlock > h1{
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+    margin-bottom: 45px;
+}
